@@ -1,0 +1,128 @@
+[
+  {
+    "act": "IPC",
+    "section_number": "378",
+    "title": "Theft",
+    "description": "Whoever, intending to take dishonestly any moveable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+    "keywords": ["theft", "steal", "property", "moveable"],
+    "relevant_cases": [
+      {
+        "title": "Pyare Lal Bhargava v. State of Rajasthan",
+        "citation": "AIR 1963 SC 1094",
+        "summary": "The Supreme Court held that even a temporary removal of property with dishonest intention constitutes theft. The intention to return the property later is no defense."
+      },
+      {
+        "title": "K.N. Mehra v. State of Rajasthan",
+        "citation": "AIR 1957 SC 369",
+        "summary": "Taking an aircraft for an unauthorized flight, even if temporarily, amounts to theft if done dishonestly without consent."
+      }
+    ]
+  },
+  {
+    "act": "IPC",
+    "section_number": "379",
+    "title": "Punishment for theft",
+    "description": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "keywords": ["theft", "punishment", "imprisonment"],
+    "relevant_cases": []
+  },
+  {
+    "act": "IPC",
+    "section_number": "300",
+    "title": "Murder",
+    "description": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused.",
+    "keywords": ["murder", "homicide", "death", "intention"],
+    "relevant_cases": [
+      {
+        "title": "K.M. Nanavati v. State of Maharashtra",
+        "citation": "AIR 1962 SC 605",
+        "summary": "A landmark case defining the difference between murder (s.300) and culpable homicide not amounting to murder (s.299) based on 'grave and sudden provocation'."
+      },
+      {
+        "title": "Bachan Singh v. State of Punjab",
+        "citation": "AIR 1980 SC 898",
+        "summary": "Established the 'rarest of rare' doctrine for imposing the death penalty in murder cases."
+      }
+    ]
+  },
+  {
+    "act": "IPC",
+    "section_number": "302",
+    "title": "Punishment for murder",
+    "description": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "keywords": ["murder", "punishment", "death", "life imprisonment"],
+    "relevant_cases": []
+  },
+  {
+    "act": "IPC",
+    "section_number": "420",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "description": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "keywords": ["cheating", "fraud", "property", "dishonesty", "scam"],
+    "relevant_cases": [
+      {
+        "title": "Hridaya Ranjan Prasad Verma v. State of Bihar",
+        "citation": "(2000) 4 SCC 168",
+        "summary": "Distinction between mere breach of contract and cheating. Deception must exist at the inception of the transaction."
+      }
+    ]
+  },
+  {
+    "act": "IPC",
+    "section_number": "498A",
+    "title": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "description": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.",
+    "keywords": ["cruelty", "dowry", "harassment", "husband", "women", "domestic violence"],
+    "relevant_cases": [
+      {
+        "title": "Arnesh Kumar v. State of Bihar",
+        "citation": "(2014) 8 SCC 273",
+        "summary": "Guidelines to prevent automatic arrests in 498A cases. Police must follow Section 41 CrPC checklist."
+      }
+    ]
+  },
+  {
+    "act": "IT Act",
+    "section_number": "66",
+    "title": "Computer Related Offences",
+    "description": "If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both.",
+    "keywords": ["computer", "hacking", "fraud", "cybercrime"],
+    "relevant_cases": []
+  },
+  {
+    "act": "IT Act",
+    "section_number": "66A",
+    "title": "Punishment for sending offensive messages (Struck Down)",
+    "description": "Any person who sends, by means of a computer resource or a communication device... (Note: This section was struck down by the Supreme Court).",
+    "keywords": ["offensive", "messages", "cyber", "struck down"],
+    "relevant_cases": [
+      {
+        "title": "Shreya Singhal v. Union of India",
+        "citation": "AIR 2015 SC 1523",
+        "summary": "Supreme Court struck down Section 66A as unconstitutional for violating freedom of speech under Article 19(1)(a)."
+      }
+    ]
+  },
+  {
+    "act": "IT Act",
+    "section_number": "66D",
+    "title": "Punishment for cheating by personation by using computer resource",
+    "description": "Whoever, by means for any communication device or computer resource cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees.",
+    "keywords": ["cheating", "personation", "computer", "fraud", "phishing"],
+    "relevant_cases": []
+  },
+  {
+    "act": "IT Act",
+    "section_number": "67",
+    "title": "Punishment for publishing or transmitting obscene material in electronic form",
+    "description": "Whoever publishes or transmits or causes to be published or transmitted in the electronic form, any material which is lascivious or appeals to the prurient interest... shall be punished on first conviction with imprisonment of either description for a term which may extend to three years and with fine which may extend to five lakh rupees.",
+    "keywords": ["obscene", "pornography", "electronic", "publishing", "mms"],
+    "relevant_cases": [
+      {
+        "title": "Avnish Bajaj v. State (NCT of Delhi)",
+        "citation": "(2005) 3 CompLJ 364 Del",
+        "summary": "Liability of intermediary (Bazee.com case) for obscene content posted by users. Led to amendment of Section 79."
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "ai-law-assistant-root",
+  "version": "1.0.0",
+  "description": "Root script to run full stack app",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm start --prefix frontend\"",
+    "install-all": "npm install && npm install --prefix backend && npm install --prefix frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
